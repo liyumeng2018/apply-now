@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Private Student Loans
-=================================
-
 we recommend you have the following information handy 
-========================================================
+======================================================
+
+
+==========
 Borrower:
 ==========
 • Social Security Number of borrower and student  
@@ -28,8 +28,9 @@ Borrower:
   o	Description of the study abroad guarantee or relevant certification materials provided by embassy of the country of study (or related institution in the destination area) or the university.  
 •Permanent address and temporary/in-school address  
 
+============
  Cosigners
- ===========
+============
 •Social Security number  
 
 •Employment information  
