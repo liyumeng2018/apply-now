@@ -1,4 +1,4 @@
-.. Epson documentation master file, created by
+.. apply documentation master file, created by
    sphinx-quickstart on Tue Oct 30 09:03:05 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
