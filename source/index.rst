@@ -13,7 +13,7 @@ we recommend you have the following information handy :
    :maxdepth: 2
    :caption: Borrower
 
-   apply/quickstart.rst
+   apply/borrower.rst
 
 .. toctree::
    :maxdepth: 2
