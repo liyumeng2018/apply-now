@@ -15,6 +15,12 @@ Private Student Loans
 
    apply/borrower.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Cosigners
+
+   apply/Cosigners.md
+
 
 Indices and tables
 ==================

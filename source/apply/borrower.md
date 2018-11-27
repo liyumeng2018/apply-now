@@ -18,12 +18,3 @@ o	For current student: student ID, last year tuition payment certificate, valid 
 o	Description of the study abroad guarantee or relevant certification materials provided by embassy of the country of study (or related institution in the destination area) or the university.  
 
 •Permanent address and temporary/in-school address  
-
-## Cosigners
- •Social Security number  
-
- •Employment information  
- 
- •Financial information, including monthly mortgage/rent payments  
- 
-•Permanent address 
