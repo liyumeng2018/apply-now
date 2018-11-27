@@ -8,7 +8,7 @@ we recommend you have the following information handy
 
 
 
-Borrower:
+Borrower
 ==========
 •Social Security Number of borrower and student  
 
@@ -29,8 +29,8 @@ Borrower:
 •Permanent address and temporary/in-school address  
 
 
- Cosigners
-============
+Cosigners
+===========
 •Social Security number  
 
 •Employment information  
