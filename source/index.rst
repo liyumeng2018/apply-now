@@ -7,10 +7,10 @@ we recommend you have the following information handy
 ======================================================
 
 
-==========
+
 Borrower:
 ==========
-• Social Security Number of borrower and student  
+•Social Security Number of borrower and student  
 
 •Relationship certification with student.  
 
@@ -28,7 +28,7 @@ Borrower:
   o	Description of the study abroad guarantee or relevant certification materials provided by embassy of the country of study (or related institution in the destination area) or the university.  
 •Permanent address and temporary/in-school address  
 
-============
+
  Cosigners
 ============
 •Social Security number  
