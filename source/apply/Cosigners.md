@@ -1,8 +1,8 @@
 ## Cosigners
- •Social Security number  
+ #### •Social Security number  
 
- •Employment information  
+ #### •Employment information  
  
- •Financial information, including monthly mortgage/rent payments  
+ #### •Financial information, including monthly mortgage/rent payments  
  
-•Permanent address 
+#### •Permanent address 
