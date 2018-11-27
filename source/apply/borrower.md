@@ -9,10 +9,11 @@
  •Certificates issued by overseas higher education institutions participating with Bank of China.    
 
 o	For freshman: Offer/Acceptance Letter ,payment notice   
- 
+
 o	For current student: student ID, last year tuition payment certificate, valid student visa  
 
 •written authorization for Bank of China to obtain your credit report.  
+
  •If you need guarantee for studying abroad  
 o	Description of the study abroad guarantee or relevant certification materials provided by embassy of the country of study (or related institution in the destination area) or the university.  
 
