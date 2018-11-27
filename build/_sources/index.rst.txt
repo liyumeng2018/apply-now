@@ -1,9 +1,9 @@
-.. apply documentation master file, created by
+.. Epson documentation master file, created by
    sphinx-quickstart on Tue Oct 30 09:03:05 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-we recommend you have the following information handy :
+爱普生投影仪使用说明书
 =================================
 
 
@@ -11,16 +11,21 @@ we recommend you have the following information handy :
 
 .. toctree::
    :maxdepth: 2
-   :caption: Borrower
+   :caption: 使用过程说明
 
-   apply/borrower.rst
+   使用过程/quickstart.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Cosigners
+   :caption: 其他设置
 
-   apply/Cosigners.md
+   使用过程/分辨率设置.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 分辨率设置
+
+   使用过程/使用中常出现的问题.rst
 
 Indices and tables
 ==================
