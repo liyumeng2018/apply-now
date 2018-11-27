@@ -15,12 +15,6 @@ we recommend you have the following information handy :
 
    apply/borrower.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Cosigners
-
-   apply/Cosigners.md
-
 
 Indices and tables
 ==================
