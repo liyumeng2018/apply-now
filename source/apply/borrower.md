@@ -8,7 +8,7 @@
 
  •Certificates issued by overseas higher education institutions participating with Bank of China.    
 
-o	For freshman: Offer/Acceptance Letter ,payment notice   
+o	For freshman: Offer/Acceptance Letter,payment notice   
 
 o	For current student: student ID, last year tuition payment certificate, valid student visa  
 
